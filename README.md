@@ -1,0 +1,2 @@
+# lydiabot
+Lydia Bot Altyapısı
